@@ -4,4 +4,3 @@
 Some stats about my public projects:
 
 ![](https://github-readme-stats.vercel.app/api?username=joanrod&show_icons=true&hide_border=true&hide=contribs&theme=light&count_private=true&include_all_commits=true)
-![Joanrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=joanrod&show_icons=true&hide_border=true&hide=contribs&theme=light&count_private=true&include_all_commits=true&v=1)
