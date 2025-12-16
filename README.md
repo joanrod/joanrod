@@ -2,9 +2,10 @@
 #### Visit my home page at [joanrod.github.io](https://joanrod.github.io)
 
 Some stats about my public projects:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joanrod&show_icons=true&theme=light&cache_seconds=86400)
 
-![](https://github-readme-stats.vercel.app/api?username=joanrod&show_icons=true&hide_border=true&hide=contribs&theme=light&count_private=true&include_all_commits=true)
-![trophy](https://github-profile-trophy.vercel.app/?username=joanrod)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joanrod)
-![GitHub followers](https://img.shields.io/github/followers/joanrod?label=Follow&style=social)
-![GitHub stars](https://img.shields.io/github/stars/joanrod?affiliations=OWNER%2CCOLLABORATOR&style=social)
+![GitHub Streak](https://streak-stats.demolab.com/?user=joanrod)
+
+![Followers](https://img.shields.io/github/followers/joanrod?style=social)
+![Stars](https://img.shields.io/github/stars/joanrod?style=social)
+
